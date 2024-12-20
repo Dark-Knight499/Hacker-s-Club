@@ -1,22 +1,15 @@
-## Not just doing tech for placements or getting better than others 
+## Not Just Doing Tech for Placements or Competing with Others
 
--> Doing tech for fun.
+- **Doing Tech for Fun**
+- **Unleashing Creativity**
+- **Sharing Fun Projects with Each Other**
+- **Fostering Open Source Culture**
+  - Sharing projects and collaborating on them
+  - Contributing to open source together
+- **Helping Each Other on Their Tech Journey**
+  - Making resources available across various domains
+  - Sharing experiences about development journeys in different fields
+  - Helping solve errors
+- **Exploring New Territories**
 
--> Unleash Creativity.
-
--> Sharing your fun projects with each other.
-
--> Fostering Open Source Culture
-    -> sharing projects and collaborating on them
-    -> Doing open source together
-    
--> Help each other in their tech journey
-    -> Making Resources of various domains available
-    -> People also sharing experinces about their development journey in their domain
-    -> Help solve errors
-    
-  -> Exploring new Teritories 
-
-
-### Plan to build a community that would had made my and people like mine life easier
-  
+### Plan to Build a Community That Would Have Made My Life—and the Lives of Others Like Me—Easier
