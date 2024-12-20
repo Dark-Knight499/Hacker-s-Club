@@ -12,4 +12,4 @@
   - Helping solve errors
 - **Exploring New Territories**
 
-### Plan to Build a Community That Would Have Made My Life—and the Lives of Others Like Me—Easier
+### Plan to Build a Community That Would Have Made My journey and the journies of others like me easier
